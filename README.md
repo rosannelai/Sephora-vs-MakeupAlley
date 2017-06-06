@@ -1,5 +1,4 @@
 # Sephora-vs-MakeupAlley
-Are ratings higher on Sephora than MakeupAlley for the same product?
 
 
 See Jupyter notebook for analysis. <br>
